@@ -1,0 +1,55 @@
+div{
+    text-align: center;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    margin: auto;
+    border-radius: 40px;
+    width: 70%;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: solid;
+}
+
+.div1 {
+    background-color: red;
+}
+
+.div2 {
+    background-color: orange;
+}        
+
+.div3 {
+    background-color: yellow;
+}
+
+.div4 {
+    background-color: green;
+}
+
+.div5 {
+    background-color: blue;
+}
+
+.div6 {
+    background-color: blueviolet;
+}
+
+.div8{            
+    background-color: pink;
+}
+
+.div9{
+    background-color: violet;
+}
+
+.div10{
+    background-color:blue;
+}
+
+img {
+    border: solid;
+    border-radius: 40px;
+}
+
+body{
+    background-color: goldenrod;
+}
